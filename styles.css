@@ -13,9 +13,10 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-/*.main_page {
-  position: relative;
-} */
+.picture > img {
+  height: 300px;
+  width: 300px;
+}
 
 Header {
   background-color: rgb(192, 192, 192);
